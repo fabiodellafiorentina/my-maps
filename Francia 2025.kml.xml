@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Francia 2025</name>
+    <description/>
+    <Style id="icon-1602-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1602-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1602-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1602-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1602-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1602-097138-nodesc-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1602-097138-nodesc-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1602-097138-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1602-097138-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1602-097138-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1644-9C27B0-nodesc-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1644-9C27B0-nodesc-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1644-9C27B0-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1644-9C27B0-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1644-9C27B0-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Livello senza titolo</name>
+    </Folder>
+    <Folder>
+      <name>Giorno 1 (Lyon)</name>
+      <Placemark>
+        <name>Industrial-style studio with bathtub, Vieux-Lyon</name>
+        <description>+33 781491103</description>
+        <styleUrl>#icon-1602-097138</styleUrl>
+        <Point>
+          <coordinates>
+            4.826971,45.7646883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parking LPA - St Antoine</name>
+        <styleUrl>#icon-1644-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.8318709,45.7644478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parking Saint Jean</name>
+        <styleUrl>#icon-1644-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.8286827,45.7606872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le café de la cathédrale</name>
+        <description>Bella da vedere e sei già lì nel Vieux Lyon (città vecchia)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.8270767,45.76113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fourvière</name>
+        <description>Sali alla basilica (a piedi o in funicolare): vista spettacolare sulla città.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.8199292,45.7606834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Place Bellecour</name>
+        <description>Una delle piazze più grandi d’Europa. Da lì puoi passeggiare sulla Rue de la République per un po’ di shopping o atmosfera.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.8315189,45.7568283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Presqu'île Fleurs]]></name>
+        <description>La zona tra i due fiumi, piena di vita, locali, negozi.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            4.8340971,45.764707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Giorno 2 (Bordeaux)</name>
+      <Placemark>
+        <name>Chateau de la Vieille Chapelle</name>
+        <description>+33 557844865</description>
+        <styleUrl>#icon-1602-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -0.3819616,44.9421211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Place de la Bourse + Miroir d’Eau</name>
+        <description>Iconica. Il riflesso dell’edificio sull’acqua è uno spettacolo.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -0.570467,44.8414955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rue Sainte-Catherine</name>
+        <description>La via pedonale più lunga d’Europa, perfetta per un giro tra negozi e caffè.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -0.5740182,44.8389203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cattedrale Saint-André + Tour Pey-Berland</name>
+        <description>Se hai energia, sali sulla torre per una bella vista.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -0.5776695,44.8376447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grosse Cloche</name>
+        <description>Un’antica porta della città con una campana gigante. Molto fotogenica.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -0.5713192,44.8354209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quartiere Saint-Pierre</name>
+        <description>Il cuore storico, pieno di localini, atmosfera rilassata.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -0.5704712,44.8398722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Giorno 3-4 (Dune du Pilat)</name>
+      <Placemark>
+        <name>Casa Leo</name>
+        <description>+33 607892310</description>
+        <styleUrl>#icon-1602-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -1.1134155,44.6427868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cap Ferret</name>
+        <description>perfetto per un pranzo vista oceano, magari con pesce fresco e un bicchiere di bianco.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2516627,44.6548704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dune du Pilat</name>
+        <description><![CDATA[- Salita alla Dune du Pilat al mattino presto o al tramonto (meno caldo, più scenico).<br>- Passeggiata sulla cresta della duna: vista sull’oceano da un lato e sulla foresta dall’altro, pazzesca.<br>- Bagno o relax in spiaggia alla base della duna.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2156579,44.5877658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arcachon</name>
+        <description>Cittadina elegante con belle ville e atmosfera rilassata.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -1.1785016,44.652297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Giorno 5 (Saintes-Maries-de-la-Mer)</name>
+      <Placemark>
+        <name>Le Dauphin Bleu</name>
+        <description>+33 490978021</description>
+        <styleUrl>#icon-1602-097138</styleUrl>
+        <Point>
+          <coordinates>
+            4.4336111,43.4525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plage des Arènes</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.4264901,43.4491577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parco ornitologico di Pont de Gau</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.4041711,43.4889447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Giorno 6 (Cannes)</name>
+      <Placemark>
+        <name>Studio chic à 200 m du Palais des Festivals, au cœur du shopping Cannois</name>
+        <styleUrl>#icon-1602-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.0173242,43.5528303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Croisette Beach Cannes</name>
+        <description>Palme, hotel iconici (tipo il Martinez o il Carlton), vetrine di lusso e vista mare.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            7.0236116,43.5497643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palace of Festivals and Congresses of Cannes</name>
+        <description>Foto sulle famosissime scale rosse del Festival di Cannes.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            7.0179622,43.5507813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porto Vecchio</name>
+        <description>Pranzo</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            9.2831822,41.5900811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Suquet</name>
+        <description>Il quartiere antico, con stradine acciottolate e vista panoramica dal castello/museo.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            7.0115416,43.5503174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
